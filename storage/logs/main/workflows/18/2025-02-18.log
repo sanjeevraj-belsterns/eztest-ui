@@ -1,0 +1,36 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-02-18 07:30:27"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-02-18 07:30:27"}
+{"level":"info","message":"execution of workflow 18 created as 180","timestamp":"2025-02-18 07:30:27"}
+{"level":"info","message":"pending execution (180) ready to process","timestamp":"2025-02-18 07:30:27"}
+{"level":"info","message":"queueing execution (180) from pending list updated to started","timestamp":"2025-02-18 07:30:27"}
+{"level":"info","message":"execution (180) starting...","timestamp":"2025-02-18 07:30:27"}
+{"level":"info","message":"execution (180) run instruction [request] for node (99)","timestamp":"2025-02-18 07:30:27"}
+{"level":"info","message":"request (#99) sent to \"http://192.168.255.34:3000/api/repo\", waiting for response...","timestamp":"2025-02-18 07:30:27"}
+{"level":"info","message":"execution (180) exiting with status 0","timestamp":"2025-02-18 07:30:27"}
+{"level":"info","execution":{"id":180,"context":{"data":{"createdAt":"2025-02-17T10:14:57.839Z","updatedAt":"2025-02-17T10:15:00.859Z","workspace_id":22,"repo_roken":"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","organization_name":null,"host_domain":null,"webhook":" https://a1ab-103-130-204-185.ngrok-free.app/api/webhook/cc3ed961-ee87-4e24-b044-13023cd27a75","id":55,"host":"github","repo_name":"dev-utaa","repository_url":"https://github.com/Belsterns/dev-utaa","is_initialized":"false","branch":null,"updatedById":1,"createdById":1}},"key":"uaocefjldm6","eventKey":"116377c5-7480-476c-94a0-202654abfa0f","status":0,"workflowId":18,"updatedAt":"2025-02-18T07:30:27.467Z","createdAt":"2025-02-18T07:30:27.416Z"},"message":"execution (180) finished with status: 0","timestamp":"2025-02-18 07:30:27"}
+{"level":"error","message":"request (#99) failed without resposne: connect ECONNREFUSED 192.168.255.34:3000","timestamp":"2025-02-18 07:30:29"}
+{"level":"info","message":"execution (180) resuming from job (541) added to pending list","timestamp":"2025-02-18 07:30:29"}
+{"level":"info","message":"pending execution (180) ready to process","timestamp":"2025-02-18 07:30:29"}
+{"level":"info","message":"execution (180) resuming...","timestamp":"2025-02-18 07:30:29"}
+{"level":"info","message":"execution (180) run instruction [request] for node (99)","timestamp":"2025-02-18 07:30:29"}
+{"level":"info","message":"execution (180) run instruction [request] for node (99) finished as status: -1","timestamp":"2025-02-18 07:30:29"}
+{"level":"info","message":"execution (180) exiting with status -1","timestamp":"2025-02-18 07:30:29"}
+{"level":"info","execution":{"id":180,"context":{"data":{"createdAt":"2025-02-17T10:14:57.839Z","updatedAt":"2025-02-17T10:15:00.859Z","workspace_id":22,"repo_roken":"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","organization_name":null,"host_domain":null,"webhook":" https://a1ab-103-130-204-185.ngrok-free.app/api/webhook/cc3ed961-ee87-4e24-b044-13023cd27a75","id":55,"host":"github","repo_name":"dev-utaa","repository_url":"https://github.com/Belsterns/dev-utaa","is_initialized":"false","branch":null,"updatedById":1,"createdById":1}},"key":"uaocefjldm6","eventKey":"116377c5-7480-476c-94a0-202654abfa0f","status":-1,"workflowId":18,"updatedAt":"2025-02-18T07:30:29.657Z","createdAt":"2025-02-18T07:30:27.416Z"},"message":"execution (180) finished with status: -1","timestamp":"2025-02-18 07:30:29"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-02-18 07:30:32"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-02-18 07:30:32"}
+{"level":"info","message":"execution of workflow 18 created as 181","timestamp":"2025-02-18 07:30:32"}
+{"level":"info","message":"pending execution (181) ready to process","timestamp":"2025-02-18 07:30:32"}
+{"level":"info","message":"queueing execution (181) from pending list updated to started","timestamp":"2025-02-18 07:30:32"}
+{"level":"info","message":"execution (181) starting...","timestamp":"2025-02-18 07:30:32"}
+{"level":"info","message":"execution (181) run instruction [request] for node (99)","timestamp":"2025-02-18 07:30:32"}
+{"level":"info","message":"request (#99) sent to \"http://192.168.255.34:3000/api/repo\", waiting for response...","timestamp":"2025-02-18 07:30:32"}
+{"level":"info","message":"execution (181) exiting with status 0","timestamp":"2025-02-18 07:30:32"}
+{"level":"info","execution":{"id":181,"context":{"data":{"createdAt":"2025-02-15T13:08:27.240Z","updatedAt":"2025-02-17T11:34:36.921Z","workspace_id":37,"repo_roken":"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","organization_name":null,"host_domain":null,"webhook":" https://a1ab-103-130-204-185.ngrok-free.app/api/webhook/d5841dfb-e519-406c-960f-a4186bea61ae","id":52,"host":"github","repo_name":"demo-repository","repository_url":"https://github.com/sanjeevraj-belsterns/demo-repository","is_initialized":"true","branch":null,"updatedById":1,"createdById":1}},"key":"uaocefjldm6","eventKey":"cdc866d7-1a63-4c43-bb62-ce510e8b6104","status":0,"workflowId":18,"updatedAt":"2025-02-18T07:30:32.186Z","createdAt":"2025-02-18T07:30:32.168Z"},"message":"execution (181) finished with status: 0","timestamp":"2025-02-18 07:30:32"}
+{"level":"error","message":"request (#99) failed without resposne: connect ECONNREFUSED 192.168.255.34:3000","timestamp":"2025-02-18 07:30:34"}
+{"level":"info","message":"execution (181) resuming from job (542) added to pending list","timestamp":"2025-02-18 07:30:34"}
+{"level":"info","message":"pending execution (181) ready to process","timestamp":"2025-02-18 07:30:34"}
+{"level":"info","message":"execution (181) resuming...","timestamp":"2025-02-18 07:30:34"}
+{"level":"info","message":"execution (181) run instruction [request] for node (99)","timestamp":"2025-02-18 07:30:34"}
+{"level":"info","message":"execution (181) run instruction [request] for node (99) finished as status: -1","timestamp":"2025-02-18 07:30:34"}
+{"level":"info","message":"execution (181) exiting with status -1","timestamp":"2025-02-18 07:30:34"}
+{"level":"info","execution":{"id":181,"context":{"data":{"createdAt":"2025-02-15T13:08:27.240Z","updatedAt":"2025-02-17T11:34:36.921Z","workspace_id":37,"repo_roken":"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","organization_name":null,"host_domain":null,"webhook":" https://a1ab-103-130-204-185.ngrok-free.app/api/webhook/d5841dfb-e519-406c-960f-a4186bea61ae","id":52,"host":"github","repo_name":"demo-repository","repository_url":"https://github.com/sanjeevraj-belsterns/demo-repository","is_initialized":"true","branch":null,"updatedById":1,"createdById":1}},"key":"uaocefjldm6","eventKey":"cdc866d7-1a63-4c43-bb62-ce510e8b6104","status":-1,"workflowId":18,"updatedAt":"2025-02-18T07:30:34.314Z","createdAt":"2025-02-18T07:30:32.168Z"},"message":"execution (181) finished with status: -1","timestamp":"2025-02-18 07:30:34"}
