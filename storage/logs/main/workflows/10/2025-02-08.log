@@ -1,0 +1,33 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-02-08 04:57:19"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-02-08 04:57:19"}
+{"level":"info","message":"execution of workflow 10 created as 7","timestamp":"2025-02-08 04:57:19"}
+{"level":"info","message":"pending execution (7) ready to process","timestamp":"2025-02-08 04:57:22"}
+{"level":"info","message":"queueing execution (7) from pending list updated to started","timestamp":"2025-02-08 04:57:22"}
+{"level":"info","message":"execution (7) starting...","timestamp":"2025-02-08 04:57:22"}
+{"level":"info","message":"execution (7) run instruction [request] for node (41)","timestamp":"2025-02-08 04:57:23"}
+{"level":"info","message":"request (#41) sent to \"http://192.168.1.35:3001/api/repo/validate\n\", waiting for response...","timestamp":"2025-02-08 04:57:23"}
+{"level":"info","message":"execution (7) exiting with status 0","timestamp":"2025-02-08 04:57:23"}
+{"level":"info","execution":{"id":7,"context":{"data":{"createdAt":"2025-02-07T09:26:36.786Z","updatedAt":"2025-02-08T04:57:18.389Z","workspace_id":37,"repo_roken":"token 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","webhook":null,"id":8,"repo_name":"dev-utaa","repo_url":null,"updatedById":1,"createdById":1,"organization_name":"belsterns","host_domain":"https://github.com","host":"github"},"user":{"createdAt":"2025-02-03T07:06:39.365Z","updatedAt":"2025-02-07T06:44:53.403Z","systemSettings":{"themeId":1},"id":1,"nickname":"Super Admin","username":"nocobase","email":"admin@nocobase.com","phone":null,"passwordChangeTz":null,"appLang":null,"user_ids":null,"createdById":null},"roleName":"root"},"key":"7sfvz1slp8i","eventKey":"1d116936-c2d3-4034-915d-621e7ff6306b","status":0,"workflowId":10,"updatedAt":"2025-02-08T04:57:22.771Z","createdAt":"2025-02-08T04:57:19.063Z"},"message":"execution (7) finished with status: 0","timestamp":"2025-02-08 04:57:23"}
+{"level":"info","message":"request (#41) response success, status: 200","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"execution (7) resuming from job (7) added to pending list","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"pending execution (7) ready to process","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"execution (7) resuming...","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"execution (7) run instruction [request] for node (41)","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"execution (7) run instruction [request] for node (41) finished as status: 1","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"execution (7) run instruction [condition] for node (42)","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"execution (7) run instruction [notification] for node (43)","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"notification (#43) sent, waiting for response...","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"execution (7) exiting with status 0","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"execution (7) exiting with status 0","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"execution (7) exiting with status 0","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","execution":{"id":7,"context":{"data":{"createdAt":"2025-02-07T09:26:36.786Z","updatedAt":"2025-02-08T04:57:18.389Z","workspace_id":37,"repo_roken":"token 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","webhook":null,"id":8,"repo_name":"dev-utaa","repo_url":null,"updatedById":1,"createdById":1,"organization_name":"belsterns","host_domain":"https://github.com","host":"github"},"user":{"createdAt":"2025-02-03T07:06:39.365Z","updatedAt":"2025-02-07T06:44:53.403Z","systemSettings":{"themeId":1},"id":1,"nickname":"Super Admin","username":"nocobase","email":"admin@nocobase.com","phone":null,"passwordChangeTz":null,"appLang":null,"user_ids":null,"createdById":null},"roleName":"root"},"key":"7sfvz1slp8i","eventKey":"1d116936-c2d3-4034-915d-621e7ff6306b","status":0,"workflowId":10,"updatedAt":"2025-02-08T04:57:22.771Z","createdAt":"2025-02-08T04:57:19.063Z"},"message":"execution (7) finished with status: 0","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"notification (#43) sent successfully.","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"execution (7) resuming from job (9) added to pending list","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"pending execution (7) ready to process","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"execution (7) resuming...","timestamp":"2025-02-08 04:57:27"}
+{"level":"info","message":"execution (7) run instruction [notification] for node (43)","timestamp":"2025-02-08 04:57:28"}
+{"level":"info","message":"execution (7) run instruction [notification] for node (43) finished as status: 1","timestamp":"2025-02-08 04:57:28"}
+{"level":"info","message":"execution (7) run instruction [condition] for node (42)","timestamp":"2025-02-08 04:57:28"}
+{"level":"info","message":"execution (7) run instruction [condition] for node (42) finished as status: 1","timestamp":"2025-02-08 04:57:28"}
+{"level":"info","message":"execution (7) exiting with status 1","timestamp":"2025-02-08 04:57:28"}
+{"level":"info","execution":{"id":7,"createdAt":"2025-02-08T04:57:19.063Z","updatedAt":"2025-02-08T04:57:28.128Z","key":"7sfvz1slp8i","eventKey":"1d116936-c2d3-4034-915d-621e7ff6306b","context":{"data":{"createdAt":"2025-02-07T09:26:36.786Z","updatedAt":"2025-02-08T04:57:18.389Z","workspace_id":37,"repo_roken":"token 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","webhook":null,"id":8,"repo_name":"dev-utaa","repo_url":null,"updatedById":1,"createdById":1,"organization_name":"belsterns","host_domain":"https://github.com","host":"github"},"user":{"createdAt":"2025-02-03T07:06:39.365Z","updatedAt":"2025-02-07T06:44:53.403Z","systemSettings":{"themeId":1},"id":1,"nickname":"Super Admin","username":"nocobase","email":"admin@nocobase.com","phone":null,"passwordChangeTz":null,"appLang":null,"user_ids":null,"createdById":null},"roleName":"root"},"status":1,"workflowId":10},"message":"execution (7) finished with status: 1","timestamp":"2025-02-08 04:57:28"}

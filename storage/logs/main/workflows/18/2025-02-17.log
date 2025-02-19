@@ -1,0 +1,36 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-02-17 07:36:36"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-02-17 07:36:36"}
+{"level":"info","message":"execution of workflow 18 created as 175","timestamp":"2025-02-17 07:36:36"}
+{"level":"info","message":"pending execution (175) ready to process","timestamp":"2025-02-17 07:36:36"}
+{"level":"info","message":"queueing execution (175) from pending list updated to started","timestamp":"2025-02-17 07:36:36"}
+{"level":"info","message":"execution (175) starting...","timestamp":"2025-02-17 07:36:36"}
+{"level":"info","message":"execution (175) run instruction [request] for node (99)","timestamp":"2025-02-17 07:36:36"}
+{"level":"info","message":"request (#99) sent to \"http://192.168.255.34:3000/api/repo\", waiting for response...","timestamp":"2025-02-17 07:36:36"}
+{"level":"info","message":"execution (175) exiting with status 0","timestamp":"2025-02-17 07:36:36"}
+{"level":"info","execution":{"id":175,"context":{"data":{"createdAt":"2025-02-17T07:36:33.299Z","updatedAt":"2025-02-17T07:36:33.614Z","workspace_id":22,"repo_roken":"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","organization_name":null,"host_domain":null,"webhook":null,"id":53,"host":"github","repo_name":"dev-utaa","repository_url":"https://github.com/Belsterns/dev-utaa  ","updatedById":1,"createdById":1,"is_initialized":"false","branch":null},"stack":[174]},"key":"uaocefjldm6","eventKey":"3536be65-59c1-42a8-889f-f47cfe340b1c","status":0,"workflowId":18,"updatedAt":"2025-02-17T07:36:36.766Z","createdAt":"2025-02-17T07:36:36.741Z"},"message":"execution (175) finished with status: 0","timestamp":"2025-02-17 07:36:36"}
+{"level":"error","message":"request (#99) failed without resposne: connect ECONNREFUSED 192.168.255.34:3000","timestamp":"2025-02-17 07:36:38"}
+{"level":"info","message":"execution (175) resuming from job (522) added to pending list","timestamp":"2025-02-17 07:36:38"}
+{"level":"info","message":"pending execution (175) ready to process","timestamp":"2025-02-17 07:36:38"}
+{"level":"info","message":"execution (175) resuming...","timestamp":"2025-02-17 07:36:38"}
+{"level":"info","message":"execution (175) run instruction [request] for node (99)","timestamp":"2025-02-17 07:36:38"}
+{"level":"info","message":"execution (175) run instruction [request] for node (99) finished as status: -1","timestamp":"2025-02-17 07:36:38"}
+{"level":"info","message":"execution (175) exiting with status -1","timestamp":"2025-02-17 07:36:38"}
+{"level":"info","execution":{"id":175,"context":{"data":{"createdAt":"2025-02-17T07:36:33.299Z","updatedAt":"2025-02-17T07:36:33.614Z","workspace_id":22,"repo_roken":"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","organization_name":null,"host_domain":null,"webhook":null,"id":53,"host":"github","repo_name":"dev-utaa","repository_url":"https://github.com/Belsterns/dev-utaa  ","updatedById":1,"createdById":1,"is_initialized":"false","branch":null},"stack":[174]},"key":"uaocefjldm6","eventKey":"3536be65-59c1-42a8-889f-f47cfe340b1c","status":-1,"workflowId":18,"updatedAt":"2025-02-17T07:36:38.922Z","createdAt":"2025-02-17T07:36:36.741Z"},"message":"execution (175) finished with status: -1","timestamp":"2025-02-17 07:36:38"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"execution of workflow 18 created as 177","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"pending execution (177) ready to process","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"queueing execution (177) from pending list updated to started","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"execution (177) starting...","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"execution (177) run instruction [request] for node (99)","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"request (#99) sent to \"http://192.168.255.34:3000/api/repo\", waiting for response...","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"execution (177) exiting with status 0","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","execution":{"id":177,"context":{"data":{"createdAt":"2025-02-17T07:38:40.501Z","updatedAt":"2025-02-17T07:38:40.611Z","workspace_id":22,"repo_roken":"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","organization_name":null,"host_domain":null,"webhook":null,"id":54,"host":"github","repo_name":"dev-utaa","repository_url":"https://github.com/Belsterns/dev-utaa  ","updatedById":1,"createdById":1,"is_initialized":"false","branch":null},"stack":[176]},"key":"uaocefjldm6","eventKey":"8747f352-d949-4bf3-a387-f022b849fc10","status":0,"workflowId":18,"updatedAt":"2025-02-17T07:38:45.199Z","createdAt":"2025-02-17T07:38:45.168Z"},"message":"execution (177) finished with status: 0","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"request (#99) failed with response, status: 500","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"execution (177) resuming from job (527) added to pending list","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"pending execution (177) ready to process","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"execution (177) resuming...","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"execution (177) run instruction [request] for node (99)","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"execution (177) run instruction [request] for node (99) finished as status: -1","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","message":"execution (177) exiting with status -1","timestamp":"2025-02-17 07:38:45"}
+{"level":"info","execution":{"id":177,"context":{"data":{"createdAt":"2025-02-17T07:38:40.501Z","updatedAt":"2025-02-17T07:38:40.611Z","workspace_id":22,"repo_roken":"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","organization_name":null,"host_domain":null,"webhook":null,"id":54,"host":"github","repo_name":"dev-utaa","repository_url":"https://github.com/Belsterns/dev-utaa  ","updatedById":1,"createdById":1,"is_initialized":"false","branch":null},"stack":[176]},"key":"uaocefjldm6","eventKey":"8747f352-d949-4bf3-a387-f022b849fc10","status":-1,"workflowId":18,"updatedAt":"2025-02-17T07:38:45.861Z","createdAt":"2025-02-17T07:38:45.168Z"},"message":"execution (177) finished with status: -1","timestamp":"2025-02-17 07:38:45"}

@@ -1,0 +1,90 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-02-14 04:44:10"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-02-14 04:44:10"}
+{"level":"info","message":"execution of workflow 17 created as 51","timestamp":"2025-02-14 04:44:10"}
+{"level":"info","message":"pending execution (51) ready to process","timestamp":"2025-02-14 04:44:10"}
+{"level":"info","message":"queueing execution (51) from pending list updated to started","timestamp":"2025-02-14 04:44:10"}
+{"level":"info","message":"execution (51) starting...","timestamp":"2025-02-14 04:44:10"}
+{"level":"info","message":"execution (51) run instruction [request] for node (96)","timestamp":"2025-02-14 04:44:10"}
+{"level":"info","message":"request (#96) sent to \"http://192.168.255.34:3000/api/repo\", waiting for response...","timestamp":"2025-02-14 04:44:10"}
+{"level":"info","message":"execution (51) exiting with status 0","timestamp":"2025-02-14 04:44:10"}
+{"level":"info","execution":{"id":51,"context":{"data":{"createdAt":"2025-02-13T10:36:08.033Z","updatedAt":"2025-02-13T12:59:02.344Z","workspace_id":37,"repo_roken":"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","organization_name":"belsterns","host_domain":"https://api.github.com","webhook":"7c24ae05-3c51-4362-be5b-454a0c83aeeb/api/github-webhook","id":16,"repo_name":"webapp","updatedById":1,"createdById":1,"host":"github","repository_url":null}},"key":"uaocefjldm6","eventKey":"435da64a-f046-4c85-9781-46ebb5f450d8","status":0,"workflowId":17,"updatedAt":"2025-02-14T04:44:10.417Z","createdAt":"2025-02-14T04:44:10.067Z"},"message":"execution (51) finished with status: 0","timestamp":"2025-02-14 04:44:10"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-02-14 04:44:12"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-02-14 04:44:12"}
+{"level":"info","message":"execution of workflow 17 created as 52","timestamp":"2025-02-14 04:44:12"}
+{"level":"info","message":"pending execution (52) ready to process","timestamp":"2025-02-14 04:44:12"}
+{"level":"info","message":"queueing execution (52) from pending list updated to started","timestamp":"2025-02-14 04:44:12"}
+{"level":"info","message":"execution (52) starting...","timestamp":"2025-02-14 04:44:12"}
+{"level":"info","message":"execution (52) run instruction [request] for node (96)","timestamp":"2025-02-14 04:44:13"}
+{"level":"info","message":"request (#96) sent to \"http://192.168.255.34:3000/api/repo\", waiting for response...","timestamp":"2025-02-14 04:44:13"}
+{"level":"info","message":"execution (52) exiting with status 0","timestamp":"2025-02-14 04:44:13"}
+{"level":"info","execution":{"id":52,"context":{"data":{"createdAt":"2025-02-13T10:49:31.968Z","updatedAt":"2025-02-13T12:59:25.660Z","workspace_id":37,"repo_roken":"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","organization_name":"belsterns","host_domain":"https://api.github.com","webhook":"2ac000dd-2412-4038-8f96-28f2591cb3c6/api/github-webhook","id":17,"repo_name":"mobileapp","updatedById":1,"createdById":1,"host":"github","repository_url":null}},"key":"uaocefjldm6","eventKey":"8655c0e4-6176-49b4-9313-8393bbec5f56","status":0,"workflowId":17,"updatedAt":"2025-02-14T04:44:12.954Z","createdAt":"2025-02-14T04:44:12.673Z"},"message":"execution (52) finished with status: 0","timestamp":"2025-02-14 04:44:13"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-02-14 04:44:15"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-02-14 04:44:15"}
+{"level":"info","message":"execution of workflow 17 created as 53","timestamp":"2025-02-14 04:44:15"}
+{"level":"info","message":"pending execution (53) ready to process","timestamp":"2025-02-14 04:44:15"}
+{"level":"info","message":"queueing execution (53) from pending list updated to started","timestamp":"2025-02-14 04:44:15"}
+{"level":"info","message":"execution (53) starting...","timestamp":"2025-02-14 04:44:15"}
+{"level":"info","message":"execution (53) run instruction [request] for node (96)","timestamp":"2025-02-14 04:44:15"}
+{"level":"info","message":"request (#96) sent to \"http://192.168.255.34:3000/api/repo\", waiting for response...","timestamp":"2025-02-14 04:44:15"}
+{"level":"info","message":"execution (53) exiting with status 0","timestamp":"2025-02-14 04:44:15"}
+{"level":"info","execution":{"id":53,"context":{"data":{"createdAt":"2025-02-13T12:11:45.153Z","updatedAt":"2025-02-13T13:00:03.469Z","workspace_id":22,"repo_roken":"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","organization_name":"belsterns","host_domain":"https://gitlab.com","webhook":"http://localhost:3000/50e80ccf-8665-423f-9fc4-7bc53b42cb22/api/github-webhook","id":18,"repo_name":"nextjsapp","updatedById":1,"createdById":1,"host":"gitlab","repository_url":null}},"key":"uaocefjldm6","eventKey":"b74c8372-ef00-4d73-8dce-3b9ada2c3997","status":0,"workflowId":17,"updatedAt":"2025-02-14T04:44:15.336Z","createdAt":"2025-02-14T04:44:15.289Z"},"message":"execution (53) finished with status: 0","timestamp":"2025-02-14 04:44:15"}
+{"level":"info","message":"request (#96) failed with response, status: 500","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"execution (52) resuming from job (140) added to pending list","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"pending execution (52) ready to process","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"execution (52) resuming...","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"request (#96) failed with response, status: 500","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"request (#96) failed with response, status: 500","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"execution (51) resuming from job (139) added to pending list","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"execution (53) resuming from job (141) added to pending list","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"execution (52) run instruction [request] for node (96)","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"execution (52) run instruction [request] for node (96) finished as status: -1","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"execution (52) exiting with status -1","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","execution":{"id":52,"context":{"data":{"createdAt":"2025-02-13T10:49:31.968Z","updatedAt":"2025-02-13T12:59:25.660Z","workspace_id":37,"repo_roken":"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","organization_name":"belsterns","host_domain":"https://api.github.com","webhook":"2ac000dd-2412-4038-8f96-28f2591cb3c6/api/github-webhook","id":17,"repo_name":"mobileapp","updatedById":1,"createdById":1,"host":"github","repository_url":null}},"key":"uaocefjldm6","eventKey":"8655c0e4-6176-49b4-9313-8393bbec5f56","status":-1,"workflowId":17,"updatedAt":"2025-02-14T04:44:20.932Z","createdAt":"2025-02-14T04:44:12.673Z"},"message":"execution (52) finished with status: -1","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"pending execution (51) ready to process","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"execution (51) resuming...","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"execution (51) run instruction [request] for node (96)","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"execution (51) run instruction [request] for node (96) finished as status: -1","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"execution (51) exiting with status -1","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","execution":{"id":51,"context":{"data":{"createdAt":"2025-02-13T10:36:08.033Z","updatedAt":"2025-02-13T12:59:02.344Z","workspace_id":37,"repo_roken":"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","organization_name":"belsterns","host_domain":"https://api.github.com","webhook":"7c24ae05-3c51-4362-be5b-454a0c83aeeb/api/github-webhook","id":16,"repo_name":"webapp","updatedById":1,"createdById":1,"host":"github","repository_url":null}},"key":"uaocefjldm6","eventKey":"435da64a-f046-4c85-9781-46ebb5f450d8","status":-1,"workflowId":17,"updatedAt":"2025-02-14T04:44:20.962Z","createdAt":"2025-02-14T04:44:10.067Z"},"message":"execution (51) finished with status: -1","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"pending execution (53) ready to process","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"execution (53) resuming...","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"execution (53) run instruction [request] for node (96)","timestamp":"2025-02-14 04:44:20"}
+{"level":"info","message":"execution (53) run instruction [request] for node (96) finished as status: -1","timestamp":"2025-02-14 04:44:21"}
+{"level":"info","message":"execution (53) exiting with status -1","timestamp":"2025-02-14 04:44:21"}
+{"level":"info","execution":{"id":53,"context":{"data":{"createdAt":"2025-02-13T12:11:45.153Z","updatedAt":"2025-02-13T13:00:03.469Z","workspace_id":22,"repo_roken":"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","organization_name":"belsterns","host_domain":"https://gitlab.com","webhook":"http://localhost:3000/50e80ccf-8665-423f-9fc4-7bc53b42cb22/api/github-webhook","id":18,"repo_name":"nextjsapp","updatedById":1,"createdById":1,"host":"gitlab","repository_url":null}},"key":"uaocefjldm6","eventKey":"b74c8372-ef00-4d73-8dce-3b9ada2c3997","status":-1,"workflowId":17,"updatedAt":"2025-02-14T04:44:21.005Z","createdAt":"2025-02-14T04:44:15.289Z"},"message":"execution (53) finished with status: -1","timestamp":"2025-02-14 04:44:21"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-02-14 06:08:12"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-02-14 06:08:12"}
+{"level":"info","message":"execution of workflow 17 created as 56","timestamp":"2025-02-14 06:08:12"}
+{"level":"info","message":"pending execution (56) ready to process","timestamp":"2025-02-14 06:08:12"}
+{"level":"info","message":"queueing execution (56) from pending list updated to started","timestamp":"2025-02-14 06:08:13"}
+{"level":"info","message":"execution (56) starting...","timestamp":"2025-02-14 06:08:13"}
+{"level":"info","message":"execution (56) run instruction [request] for node (96)","timestamp":"2025-02-14 06:08:13"}
+{"level":"info","message":"request (#96) sent to \"http://192.168.255.34:3000/api/repo\", waiting for response...","timestamp":"2025-02-14 06:08:13"}
+{"level":"info","message":"execution (56) exiting with status 0","timestamp":"2025-02-14 06:08:13"}
+{"level":"info","execution":{"id":56,"context":{"data":{"createdAt":"2025-02-14T06:03:27.362Z","updatedAt":"2025-02-14T06:06:13.119Z","workspace_id":37,"repo_roken":"glpat-p1zLpiei1wk_PupRzq3G","organization_name":null,"host_domain":"https://your-git-host.com","webhook":null,"id":19,"repo_name":"Quiz Bot","updatedById":1,"createdById":1,"host":"gitlab","repository_url":"https://gitlab.com/python2815706/QuizBot%22"}},"key":"uaocefjldm6","eventKey":"10924c05-cc95-431d-8061-a44048bbbadc","status":0,"workflowId":17,"updatedAt":"2025-02-14T06:08:12.984Z","createdAt":"2025-02-14T06:08:12.872Z"},"message":"execution (56) finished with status: 0","timestamp":"2025-02-14 06:08:13"}
+{"level":"info","message":"request (#96) failed with response, status: 405","timestamp":"2025-02-14 06:08:18"}
+{"level":"info","message":"execution (56) resuming from job (144) added to pending list","timestamp":"2025-02-14 06:08:18"}
+{"level":"info","message":"pending execution (56) ready to process","timestamp":"2025-02-14 06:08:18"}
+{"level":"info","message":"execution (56) resuming...","timestamp":"2025-02-14 06:08:18"}
+{"level":"info","message":"execution (56) run instruction [request] for node (96)","timestamp":"2025-02-14 06:08:18"}
+{"level":"info","message":"execution (56) run instruction [request] for node (96) finished as status: -1","timestamp":"2025-02-14 06:08:18"}
+{"level":"info","message":"execution (56) exiting with status -1","timestamp":"2025-02-14 06:08:18"}
+{"level":"info","execution":{"id":56,"context":{"data":{"createdAt":"2025-02-14T06:03:27.362Z","updatedAt":"2025-02-14T06:06:13.119Z","workspace_id":37,"repo_roken":"glpat-p1zLpiei1wk_PupRzq3G","organization_name":null,"host_domain":"https://your-git-host.com","webhook":null,"id":19,"repo_name":"Quiz Bot","updatedById":1,"createdById":1,"host":"gitlab","repository_url":"https://gitlab.com/python2815706/QuizBot%22"}},"key":"uaocefjldm6","eventKey":"10924c05-cc95-431d-8061-a44048bbbadc","status":-1,"workflowId":17,"updatedAt":"2025-02-14T06:08:18.801Z","createdAt":"2025-02-14T06:08:12.872Z"},"message":"execution (56) finished with status: -1","timestamp":"2025-02-14 06:08:18"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-02-14 09:24:30"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-02-14 09:24:30"}
+{"level":"info","message":"execution of workflow 17 created as 70","timestamp":"2025-02-14 09:24:30"}
+{"level":"info","message":"pending execution (70) ready to process","timestamp":"2025-02-14 09:24:30"}
+{"level":"info","message":"queueing execution (70) from pending list updated to started","timestamp":"2025-02-14 09:24:30"}
+{"level":"info","message":"execution (70) starting...","timestamp":"2025-02-14 09:24:30"}
+{"level":"info","message":"execution (70) run instruction [request] for node (96)","timestamp":"2025-02-14 09:24:30"}
+{"level":"info","message":"request (#96) sent to \"http://192.168.255.34:3000/api/repo\", waiting for response...","timestamp":"2025-02-14 09:24:30"}
+{"level":"info","message":"execution (70) exiting with status 0","timestamp":"2025-02-14 09:24:30"}
+{"level":"info","execution":{"id":70,"context":{"data":{"createdAt":"2025-02-14T06:09:58.088Z","updatedAt":"2025-02-14T06:53:51.293Z","workspace_id":37,"repo_roken":"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","organization_name":null,"host_domain":"","webhook":"http://localhost:3000/api/webhook/0e25fcd2-1347-454a-8b56-2fe252300fd3","id":20,"host":"github","repo_name":"Dev-utaa","repository_url":"https://github.com/Belsterns/dev-utaa","updatedById":1,"createdById":1}},"key":"uaocefjldm6","eventKey":"d1135a65-bcf0-4f69-840b-c5b173c769a8","status":0,"workflowId":17,"updatedAt":"2025-02-14T09:24:30.648Z","createdAt":"2025-02-14T09:24:30.408Z"},"message":"execution (70) finished with status: 0","timestamp":"2025-02-14 09:24:30"}
+{"level":"info","message":"request (#96) failed with response, status: 405","timestamp":"2025-02-14 09:24:34"}
+{"level":"info","message":"execution (70) resuming from job (175) added to pending list","timestamp":"2025-02-14 09:24:34"}
+{"level":"info","message":"pending execution (70) ready to process","timestamp":"2025-02-14 09:24:34"}
+{"level":"info","message":"execution (70) resuming...","timestamp":"2025-02-14 09:24:34"}
+{"level":"info","message":"execution (70) run instruction [request] for node (96)","timestamp":"2025-02-14 09:24:34"}
+{"level":"info","message":"execution (70) run instruction [request] for node (96) finished as status: -1","timestamp":"2025-02-14 09:24:34"}
+{"level":"info","message":"execution (70) exiting with status -1","timestamp":"2025-02-14 09:24:34"}
+{"level":"info","execution":{"id":70,"context":{"data":{"createdAt":"2025-02-14T06:09:58.088Z","updatedAt":"2025-02-14T06:53:51.293Z","workspace_id":37,"repo_roken":"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","organization_name":null,"host_domain":"","webhook":"http://localhost:3000/api/webhook/0e25fcd2-1347-454a-8b56-2fe252300fd3","id":20,"host":"github","repo_name":"Dev-utaa","repository_url":"https://github.com/Belsterns/dev-utaa","updatedById":1,"createdById":1}},"key":"uaocefjldm6","eventKey":"d1135a65-bcf0-4f69-840b-c5b173c769a8","status":-1,"workflowId":17,"updatedAt":"2025-02-14T09:24:34.692Z","createdAt":"2025-02-14T09:24:30.408Z"},"message":"execution (70) finished with status: -1","timestamp":"2025-02-14 09:24:34"}
