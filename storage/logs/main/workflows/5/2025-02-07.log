@@ -1,0 +1,18 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-02-07 06:40:46"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-02-07 06:40:46"}
+{"level":"info","message":"execution of workflow 5 created as 2","timestamp":"2025-02-07 06:40:46"}
+{"level":"info","message":"pending execution (2) ready to process","timestamp":"2025-02-07 06:40:46"}
+{"level":"info","message":"queueing execution (2) from pending list updated to started","timestamp":"2025-02-07 06:40:46"}
+{"level":"info","message":"execution (2) starting...","timestamp":"2025-02-07 06:40:46"}
+{"level":"info","message":"execution (2) run instruction [request] for node (17)","timestamp":"2025-02-07 06:40:46"}
+{"level":"info","message":"request (#17) sent to \"8fb4-2409-4072-608e-a9ce-2d72-59c1-51de-fa2d.ngrok-free.app/api/repo/validate\n\", waiting for response...","timestamp":"2025-02-07 06:40:46"}
+{"level":"info","message":"execution (2) exiting with status 0","timestamp":"2025-02-07 06:40:46"}
+{"level":"info","execution":{"id":2,"context":{"data":{"createdAt":"2025-02-07T06:40:46.297Z","updatedAt":"2025-02-07T06:40:46.360Z","id":5,"organization_name":"Belsterns","org_url":"github.com","host":"github","repo_name":"dev-utaa","repo_roken":"token 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","workspace_id":37,"updatedById":1,"createdById":1,"webhook":null,"repo_url":null}},"key":"3c8rg2h08e6","eventKey":"ff69cb7a-ae41-4ceb-9b7b-f46a887682a4","status":0,"workflowId":5,"updatedAt":"2025-02-07T06:40:46.801Z","createdAt":"2025-02-07T06:40:46.734Z"},"message":"execution (2) finished with status: 0","timestamp":"2025-02-07 06:40:46"}
+{"level":"error","message":"request (#17) failed unexpectedly: Invalid URL","timestamp":"2025-02-07 06:40:46"}
+{"level":"info","message":"execution (2) resuming from job (2) added to pending list","timestamp":"2025-02-07 06:40:46"}
+{"level":"info","message":"pending execution (2) ready to process","timestamp":"2025-02-07 06:40:46"}
+{"level":"info","message":"execution (2) resuming...","timestamp":"2025-02-07 06:40:46"}
+{"level":"info","message":"execution (2) run instruction [request] for node (17)","timestamp":"2025-02-07 06:40:46"}
+{"level":"info","message":"execution (2) run instruction [request] for node (17) finished as status: -1","timestamp":"2025-02-07 06:40:47"}
+{"level":"info","message":"execution (2) exiting with status -1","timestamp":"2025-02-07 06:40:47"}
+{"level":"info","execution":{"id":2,"context":{"data":{"createdAt":"2025-02-07T06:40:46.297Z","updatedAt":"2025-02-07T06:40:46.360Z","id":5,"organization_name":"Belsterns","org_url":"github.com","host":"github","repo_name":"dev-utaa","repo_roken":"token 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","workspace_id":37,"updatedById":1,"createdById":1,"webhook":null,"repo_url":null}},"key":"3c8rg2h08e6","eventKey":"ff69cb7a-ae41-4ceb-9b7b-f46a887682a4","status":-1,"workflowId":5,"updatedAt":"2025-02-07T06:40:47.005Z","createdAt":"2025-02-07T06:40:46.734Z"},"message":"execution (2) finished with status: -1","timestamp":"2025-02-07 06:40:47"}

@@ -1,0 +1,18 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-02-13 05:09:56"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-02-13 05:09:56"}
+{"level":"info","message":"execution of workflow 10 created as 12","timestamp":"2025-02-13 05:09:56"}
+{"level":"info","message":"pending execution (12) ready to process","timestamp":"2025-02-13 05:09:56"}
+{"level":"info","message":"queueing execution (12) from pending list updated to started","timestamp":"2025-02-13 05:09:56"}
+{"level":"info","message":"execution (12) starting...","timestamp":"2025-02-13 05:09:56"}
+{"level":"info","message":"execution (12) run instruction [request] for node (41)","timestamp":"2025-02-13 05:09:56"}
+{"level":"info","message":"request (#41) sent to \"http://192.168.1.35:3001/api/repo/validate\n\", waiting for response...","timestamp":"2025-02-13 05:09:56"}
+{"level":"info","message":"execution (12) exiting with status 0","timestamp":"2025-02-13 05:09:56"}
+{"level":"info","execution":{"id":12,"context":{"data":{"createdAt":"2025-02-07T09:26:36.786Z","updatedAt":"2025-02-13T05:09:56.012Z","workspace_id":37,"repo_roken":"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","organization_name":"belsterns","host_domain":"https://github.com","webhook":null,"id":8,"host":"github","repo_name":"dev-utaa","updatedById":1,"createdById":1},"user":{"createdAt":"2025-02-03T07:06:39.365Z","updatedAt":"2025-02-12T16:40:15.024Z","systemSettings":{"themeId":1},"id":1,"nickname":"Super Admin","username":"nocobase","email":"admin@nocobase.com","phone":null,"passwordChangeTz":null,"appLang":null,"user_ids":null,"createdById":null},"roleName":"root"},"key":"7sfvz1slp8i","eventKey":"8089e484-bb29-4e73-8386-a7b17f108be1","status":0,"workflowId":10,"updatedAt":"2025-02-13T05:09:56.385Z","createdAt":"2025-02-13T05:09:56.237Z"},"message":"execution (12) finished with status: 0","timestamp":"2025-02-13 05:09:56"}
+{"level":"error","message":"request (#41) failed without resposne: connect ECONNREFUSED 192.168.1.35:3001","timestamp":"2025-02-13 05:09:59"}
+{"level":"info","message":"execution (12) resuming from job (14) added to pending list","timestamp":"2025-02-13 05:09:59"}
+{"level":"info","message":"pending execution (12) ready to process","timestamp":"2025-02-13 05:09:59"}
+{"level":"info","message":"execution (12) resuming...","timestamp":"2025-02-13 05:09:59"}
+{"level":"info","message":"execution (12) run instruction [request] for node (41)","timestamp":"2025-02-13 05:09:59"}
+{"level":"info","message":"execution (12) run instruction [request] for node (41) finished as status: -1","timestamp":"2025-02-13 05:09:59"}
+{"level":"info","message":"execution (12) exiting with status -1","timestamp":"2025-02-13 05:09:59"}
+{"level":"info","execution":{"id":12,"context":{"data":{"createdAt":"2025-02-07T09:26:36.786Z","updatedAt":"2025-02-13T05:09:56.012Z","workspace_id":37,"repo_roken":"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","organization_name":"belsterns","host_domain":"https://github.com","webhook":null,"id":8,"host":"github","repo_name":"dev-utaa","updatedById":1,"createdById":1},"user":{"createdAt":"2025-02-03T07:06:39.365Z","updatedAt":"2025-02-12T16:40:15.024Z","systemSettings":{"themeId":1},"id":1,"nickname":"Super Admin","username":"nocobase","email":"admin@nocobase.com","phone":null,"passwordChangeTz":null,"appLang":null,"user_ids":null,"createdById":null},"roleName":"root"},"key":"7sfvz1slp8i","eventKey":"8089e484-bb29-4e73-8386-a7b17f108be1","status":-1,"workflowId":10,"updatedAt":"2025-02-13T05:09:59.044Z","createdAt":"2025-02-13T05:09:56.237Z"},"message":"execution (12) finished with status: -1","timestamp":"2025-02-13 05:09:59"}
